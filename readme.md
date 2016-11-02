@@ -1,4 +1,26 @@
-> This is a list of must-watch videos devoted to JavaScript
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+> This is a list of must-watch videos devoted to JavaScript 
+
+## 2016
+1. [Brendan Eich: **JavaScript in 2016: Beyond Harmony**](https://www.oreilly.com/ideas/brendan-eich-javascript-fluent-2016) [15:31]
+1. [André Staltz: **Brains as building blocks**](https://www.youtube.com/watch?v=1ToJ7cxb1R8) [21:26]
+1. [Cheng Lou: **On the Spectrum of Abstraction**](https://www.youtube.com/watch?v=mVVNJKv9esE) [35:31]
+
+## 2015 
+1. Dr. Axel Rauschmayer: **Using ECMAScript 6 today** 
+	* [Part 1](https://www.youtube.com/watch?v=Fg3bEZIcnUw) [40:44]
+	* [Part 2](https://www.youtube.com/watch?v=Vhhq1WpzsnM) [53:04]
+1. [Brendan Eich: **ECMAScript Harmony: Rise of the Compilers**](https://www.youtube.com/watch?v=PlmsweSNhTw) [19:17] 
+1. [Andreas Gal: **Dirty Performance Secrets of HTML5**](https://www.youtube.com/watch?v=t8x40JXUeWA) [14:15]
+1. [Andre Staltz: **What if the user was a function?**](https://www.youtube.com/watch?v=1zj7M1LnJV4) [32:19]
+1. [Gilmore Davidson: **Time zone of your life**](https://www.youtube.com/watch?v=2BdFg5JT9lg) [23:40]
+1. [Elijah Manor: **Eliminate JavaScript Code Smells**](https://www.youtube.com/watch?v=JVlfj7mQZPo) [29:15]
+1. [Dan Abramov: **Live React: Hot Reloading with Time Travel**](https://www.youtube.com/watch?v=xsSnOQynTHs) [30:40]
+1. [Brain Ford: **Problem solving in the open source world**](https://www.youtube.com/watch?v=9iIRZrxK1vA) [29:57]
+1. [Kris Kowal: **A General Theory of Reactivity**](https://www.youtube.com/watch?v=2p51PE1MZ8U) [35:38]
+
+
+
 
 ## 2014
 1. [Ilya Grigorik: **Website Performance Optimization** (Udacity course)](https://www.udacity.com/course/ud884) [1:13:57]
@@ -13,6 +35,10 @@
 1. [Gary Bernhardt: **The Birth & Death of Javascript**](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) [29:22] // watched, funny, but pointless
 1. [Addy Osmani: **Memory Management Masterclass**](https://www.youtube.com/watch?v=LaxbdIyBkL0) [55:06]
 1. [Reginald Braithwaite: **Invent the future, don't recreate the past**](http://youtu.be/uYcAjr2J_rU) [39:16]
+1. [Kyle Simpson: **Syncing Async**](https://www.youtube.com/watch?v=-wYw0bZZ38Y) [42:25] 
+1. [Ariya Hidayat: **JavaScript and the Browser: Under the Hood**](https://www.youtube.com/watch?v=dibzLw4wPms) [29:13] 
+1. [Jafar Husain: **Version 7: The Evolution of JavaScript**](https://www.youtube.com/watch?v=DqMFX91ToLw) [1:11:53]
+1. [David Nolen: **Immutability: Putting The Dream Machine To Work**](https://www.youtube.com/watch?v=SiFwRtCnxv4) [22:05]
 
 ## 2013
 1. [Nat Duca, Tom Wiltzius: **Jank Free: Chrome Rendering Performance**](https://www.youtube.com/watch?v=n8ep4leoN9A&feature=youtu.be) [40:53]
@@ -28,6 +54,7 @@
 1. [Vyacheslav Egorov: **Performance and Benchmarking**](https://www.youtube.com/watch?v=65-RbBwZQdU) [25:41]
 1. [Brendan Eich: **JavaScript at 18: Legal to Gamble**](https://www.youtube.com/watch?v=qrf9ONmtXbM) [25:44]
 1. [Mathias Bynens: **JavaScript ♥ Unicode**](https://vimeo.com/76597193) [26:12]
+1. [Mark Trostler: **Testable JavaScript - Architecting Your Application for Testability**](https://www.youtube.com/watch?v=JjqKQ8ezwKQ) [45:35]
 
 ## 2012
 1. [Ryan Sandor Richards: **Garbage Collection & Heap Management**](http://vimeo.com/45140516) [32:57]
@@ -39,6 +66,7 @@
 1. [Gary Bernhardt: **WAT**](https://www.destroyallsoftware.com/talks/wat) [4:17]
 1. [Angus Croll: **Break all the rules**](https://www.youtube.com/watch?v=MFtijdklZDo) [31:29]
 1. [Nicholas Zakas: **Maintainable JavaScript**](https://www.youtube.com/watch?v=c-kav7Tf834) [47:04]
+1. [Douglas Crockford: **Principles of Security**](https://www.youtube.com/watch?v=ZVCPZTTlhiM) [59:52]
 
 ## 2011
 1. [Douglas Crockford: **Level 7: ECMAScript 5: The New Parts**](https://www.youtube.com/watch?v=UTEqr0IlFKY) [57:18]
@@ -56,3 +84,4 @@
 
 ## 2009
 1. [Nicholas Zakas: **Scalable JavaScript Application Architecture**](https://www.youtube.com/watch?v=vXjVFPosQHw) [52:22]
+2. [Douglas Crockford: **JavaScript: The Good Parts**](https://www.youtube.com/watch?v=hQVTIJBZook) [1:03:47]
